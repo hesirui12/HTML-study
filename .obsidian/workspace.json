@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "98e513466e21f2d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "826eb2d385fc6a4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e11c6b27a49a1b82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "freecodecamp/What Role Does HTML Play on the Web.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What Role Does HTML Play on the Web"
+            }
+          },
+          {
+            "id": "72b0d1e5570ae0bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "freecodecamp/What Role Does HTML Play on the Web.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What Role Does HTML Play on the Web"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed9353eb4ee0853b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d75dc7b3562b190",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2f4aa4f0f95f0f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3b7d2f38ab1ef35a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "64858f9e4c87cdb3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8586f54dfd629180",
+    "type": "split",
+    "children": [
+      {
+        "id": "d34dee00596da53c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b2db2c78485d504",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clippings/HTML RGB 与 RGBA 颜色.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "HTML RGB 与 RGBA 颜色 的反向链接列表"
+            }
+          },
+          {
+            "id": "7fe94d994ff8f296",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Clippings/HTML RGB 与 RGBA 颜色.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "HTML RGB 与 RGBA 颜色 的出链列表"
+            }
+          },
+          {
+            "id": "0c1ed7bd3184f296",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "af9201661eb0aff8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "8f12e467753d6ef4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Clippings/HTML RGB 与 RGBA 颜色.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "HTML RGB 与 RGBA 颜色 的大纲"
+            }
+          },
+          {
+            "id": "a92e19ab212c3d64",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a92e19ab212c3d64",
+  "lastOpenFiles": [
+    "HTML-study/README.md",
+    "HTML-study",
+    "freecodecamp/What Are Attributes, and How Do They Work?.md",
+    "freecodecamp/What Role Does HTML Play on the Web.md",
+    "BASE.base",
+    "未命名 2.base",
+    "未命名 1.base",
+    "菜鸟教程/HTML RGB 与 RGBA 颜色.md",
+    "freecodecamp",
+    "菜鸟教程/HTML 样式.md",
+    "菜鸟教程/HTML 元素.md",
+    "菜鸟教程/HTML 注释.md",
+    "菜鸟教程/HTML 编辑器.md",
+    "菜鸟教程/HTML 简介.md",
+    "菜鸟教程/HTML 教程.md",
+    "菜鸟教程/HTML 颜色.md",
+    "菜鸟教程/HTML 引文与引用元素.md",
+    "菜鸟教程/HTML 文本格式化.md",
+    "菜鸟教程/HTML 段落.md",
+    "菜鸟教程/HTML 标题.md",
+    "菜鸟教程/HTML 属性.md",
+    "菜鸟教程/HTML 基础实例.md",
+    "菜鸟教程",
+    "w3school.com.cn.md",
+    "未命名.canvas"
+  ]
+}
