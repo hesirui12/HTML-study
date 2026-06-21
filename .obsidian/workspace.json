@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "freecodecamp/What Role Does HTML Play on the Web.md",
+                "file": "freecodecamp/What Is an HTML Boilerplate, and Why Is It Important.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What Role Does HTML Play on the Web"
+              "title": "What Is an HTML Boilerplate, and Why Is It Important"
             }
           },
           {
@@ -211,8 +211,9 @@
   "active": "e11c6b27a49a1b82",
   "lastOpenFiles": [
     "freecodecamp/What Is the Role of the Link Element in HTML, and How Can It Be Used to Link to External Stylesheets.md",
-    "freecodecamp/What Are Attributes, and How Do They Work?.md",
+    "freecodecamp/What Is an HTML Boilerplate, and Why Is It Important.md",
     "freecodecamp/What Role Does HTML Play on the Web.md",
+    "freecodecamp/What Are Attributes, and How Do They Work?.md",
     "HTML-study/README.md",
     "HTML-study",
     "BASE.base",
