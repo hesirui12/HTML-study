@@ -8,8 +8,6 @@ description: Learn to Code — For Free
 tags:
   - HTML
 ---
-
-
 An attribute is a value placed inside the opening tag of an HTML element. Attributes provide additional information about the element or specify how the element should behave. Here is the basic syntax for an attribute:  
 属性是指被放置在 HTML 元素的开始标签中的值。属性用于提供有关该元素的额外信息，或指定该元素应如何表现。以下是属性的基本语法：
 

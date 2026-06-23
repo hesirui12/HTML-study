@@ -8,8 +8,6 @@ description: "Learn to Code — For Free"
 tags:
   - "HTML"
 ---
-## What Is the Role of the Link Element in HTML, and How Can It Be Used to Link to External Stylesheets?在 HTML 中，link 元素的用途是什么？如何利用它来链接到外部样式表呢？
-
 Let's learn about the `link` element, and how to use it to link to external stylesheets.  
 让我们来了解一下 `link` 元素，以及如何利用它来链接到外部样式表。
 
