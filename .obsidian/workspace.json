@@ -11,10 +11,14 @@
             "id": "e11c6b27a49a1b82",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "freecodecamp/What Are IDs and Classes, and When Should You Use Them.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What Are IDs and Classes, and When Should You Use Them"
             }
           },
           {
@@ -206,6 +210,7 @@
   },
   "active": "e11c6b27a49a1b82",
   "lastOpenFiles": [
+    "freecodecamp/What Are IDs and Classes, and When Should You Use Them.md",
     "freecodecamp/What are Div Elements and When Should You Use Them.md",
     "freecodecamp/What Is UTF-8 Character Encoding, and Why Is It Needed.md",
     "freecodecamp/What Is an HTML Boilerplate, and Why Is It Important.md",
