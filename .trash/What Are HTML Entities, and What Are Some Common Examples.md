@@ -8,7 +8,7 @@ description: "Learn to Code — For Free"
 tags:
   - "HTML"
 ---
-An HTML entity, or character reference, is a set of characters used to represent a reserved character in HTML.  
+n HTML entity, or character reference, is a set of characters used to represent a reserved character in HTML.  
 HTML 实体或字符引用，是一组用于表示 HTML 中那些被保留下来的特殊字符的字符组合。
 
 Let's say you wanted to display the text `This is an <img/> element` on the screen. If you use the code currently in the editor, it won't display the desired result. Even if you added `src` and `alt` attributes to the example, it would show an image in the middle of the paragraph. Not the desired result. To interact with the example, you will need to enable the interactive editor.  
@@ -40,21 +40,17 @@ Another type of character reference would be the decimal numeric reference. This
 Here is an example of using the decimal numeric reference for the less than symbol.  
 以下是使用小数数值来表示“小于”符号的示例。
 
-Enable the interactive editor and change the code to see different symbols. You can use `&#169;` for the copyright symbol and `&#174;` for the registered trademark symbol.  
-启用交互式编辑器，修改代码即可查看不同的符号。你可以用 `&#169;` 来表示版权符号，用 `&#174;` 来表示注册商标符号。
+Enable the interactive editor and change the code to see different symbols. You can use `&#169;` for the copyright symbol and `&#174;` for the registered trademark symbol.
 
 ```html
 &#60;
 ```
 
-The last type of character reference would be the hexadecimal numeric reference. This character reference starts with an ampersand sign, hash symbol, and the letter `x`. Then it is followed by one or more ASCII hex digits and ends with a semicolon.  
-最后一种字符引用方式是十六进制数值引用。这种引用以“&”符号、井号以及“ `x` ”这几个字符开头。接着是至少一个 ASCII 十六进制数字，最后以分号结尾。
+The last type of character reference would be the hexadecimal numeric reference. This character reference starts with an ampersand sign, hash symbol, and the letter `x`. Then it is followed by one or more ASCII hex digits and ends with a semicolon.
 
-Here is an example of using the hexadecimal numeric reference for the less than symbol.  
-以下是使用十六进制数值来表示“小于”符号的示例。
+Here is an example of using the hexadecimal numeric reference for the less than symbol.
 
-Enable the interactive editor and change the code to see different symbols. You can use `&#x20AC;` for the euro symbol and `&#x03A9;` for the Greek capital letter Omega symbol.  
-启用交互式编辑器，然后修改代码，即可查看不同的符号。你可以使用 `&#x20AC;` 来表示欧元符号，用 `&#x03A9;` 来表示希腊文大写字母“Omega”符号。
+Enable the interactive editor and change the code to see different symbols. You can use `&#x20AC;` for the euro symbol and `&#x03A9;` for the Greek capital letter Omega symbol.
 
 ```html
 &#x3C;
